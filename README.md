@@ -48,11 +48,11 @@ EHD209_PCH_Solar_2025
 
 ## 📊 Principais Resultados
 
-- **Vazão ótima (Qótima):** X m³/s  
-- **Potência ótima (Pótima):** Y kW  
-- **Energia anual PCH:** Z MWh  
-- **Energia anual solar (para 50% de cobertura):** W MWh  
-- **Energia total PCH + Solar:** V MWh  
+- **Vazão ótima (Qótima):** [ADD VALOR] m³/s  
+- **Potência ótima (Pótima):** [ADD VALOR] kW  
+- **Energia anual PCH:** [ADD VALOR] MWh  
+- **Energia anual solar (para 50% de cobertura):** [ADD VALOR] MWh  
+- **Energia total PCH + Solar:** [ADD VALOR] MWh  
 
 *(Valores podem ser ajustados conforme os dados finais da PCH selecionada)*
 
