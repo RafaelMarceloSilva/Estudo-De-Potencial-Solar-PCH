@@ -16,11 +16,12 @@ Este trabalho segue a disciplina **EHD209 – Fontes Alternativas de Energia - E
 ## 🗂 Estrutura do Repositório
 
 EHD209_PCH_Solar_2025
-- dados_tratados
-- dados_brutos
 - apresentacao
-- scripts
+- dados_brutos
+- dados_tratados
+- planilha_geral
 - relatorios
+- scripts
 - README.md
 
 ---
@@ -32,7 +33,7 @@ EHD209_PCH_Solar_2025
 
 2. **Cálculos Hidroenergéticos**  
    - Abrir planilha em `planilha_geral/`.  
-   - Testar diferentes vazões instaladas (`Q_instalada`) para encontrar a **vazão ótima**.  
+   - Testar diferentes vazões instaladas para encontrar a **vazão ótima**.  
    - Energia diária, anual e potência ótima calculadas automaticamente.  
 
 3. **Cálculos do Potencial Solar**  
@@ -41,18 +42,18 @@ EHD209_PCH_Solar_2025
    - Energia anual solar calculada e somada à energia da PCH.
 
 4. **Resultados e Gráficos**  
-   - Gráficos e previsões estão em `apresentacao/graficos/`.  
+   - Gráficos e previsões estão em `apresentacao/Gráficos/`.  
    - Tabelas de energia hidro, solar e total estão nas planilhas.
 
 ---
 
 ## 📊 Principais Resultados
 
-- **Vazão ótima (Qótima):** [ADD VALOR] m³/s  
-- **Potência ótima (Pótima):** [ADD VALOR] kW  
-- **Energia anual PCH:** [ADD VALOR] MWh  
-- **Energia anual solar (para 50% de cobertura):** [ADD VALOR] MWh  
-- **Energia total PCH + Solar:** [ADD VALOR] MWh  
+- **Vazão ótima (Qótima):** 59.15 m³/s 
+- **Potência ótima (Pótima):** 8,441 kW  
+- **Energia anual PCH:** 56,34 GWh/ano 
+- **Energia anual solar (para 3% de cobertura):** 0,412 Gwh
+- **Energia total PCH + Solar 3%:** 56.59 Gwh 
 
 *(Valores podem ser ajustados conforme os dados finais da PCH selecionada)*
 
