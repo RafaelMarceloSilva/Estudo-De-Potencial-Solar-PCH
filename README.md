@@ -49,11 +49,11 @@ EHD209_PCH_Solar_2025
 
 ## 📊 Principais Resultados
 
-- **Vazão ótima (Qótima):** 59.15 m³/s 
+- **Vazão ótima (Qótima):** 52.94 m³/s
 - **Potência ótima (Pótima):** 8,441 kW  
-- **Energia anual PCH:** 56,34 GWh/ano 
-- **Energia anual solar (para 3% de cobertura):** 0,412 Gwh
-- **Energia total PCH + Solar 3%:** 56.59 Gwh 
+- **Energia anual PCH:** 46,55 MWh/ano 
+- **Energia anual solar (para 5% de cobertura):** 412,34 Mwh
+- **Energia total PCH + Solar 5%:** 458,89 Mwh 
 
 *(Valores podem ser ajustados conforme os dados finais da PCH selecionada)*
 
